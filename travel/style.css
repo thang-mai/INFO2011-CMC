@@ -1,0 +1,35 @@
+ul#menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: gray;
+}
+
+ul#menu li {
+    float: left;
+}
+
+ul#menu {
+    float: left;
+}
+
+ul#menu li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+ul#menu li a:hover {
+    background-color: rgb(38, 39, 13);
+}
+
+nav, h1 {
+    clear:both;
+}
+
+body {
+    background-color: rgb(180, 240, 255);
+}
